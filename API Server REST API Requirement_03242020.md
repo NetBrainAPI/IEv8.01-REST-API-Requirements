@@ -1,5 +1,5 @@
-Modify NetBrain API Server Credential API
-=========================================
+API Server REST API
+===================
 
 PUT /V1/CMDB/ApiServers
 -----------------------
