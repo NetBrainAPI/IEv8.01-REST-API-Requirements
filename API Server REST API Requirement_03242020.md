@@ -81,9 +81,12 @@ Response
     "statusDescription": "No API server with name <XXXXXXXXXXXX> found in current domain."
 }
 
-# username and password no change
+# username or password is empty
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 {
     "statusCode": 790...,
-    "statusDescription": "Username and Password cannot be the same as the original value."
+    "statusDescription": "Username/password must be specified."
 }
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
